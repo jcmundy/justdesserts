@@ -2,5 +2,6 @@ Ice cream
 Cake
 Pie
 gelato
+fruit bowl
 cookies
 donuts
